@@ -1,5 +1,11 @@
 # ice_makefile_blinky
 
+I am using this example from the pico-ice-sdk to try to echo the led blinking
+effect to a signal output from a pmod pin.
+
+
+Original readme:
+
 Example project using a standard [Makefile](https://en.wikipedia.org/wiki/Make_%28software%29)
 to build a project that can be loaded onto the board.
 
@@ -12,3 +18,5 @@ to program with drag-and-drop.
 
 A very complete `Makefile` example is provided for the UPduino v3 by Xark:
 <https://github.com/XarkLabs/upduino-example/>
+
+
